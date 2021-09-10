@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Oz
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Oz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Oz <br>
+作者：Lily Morton <br>
+评分：4.25/5 <br>
 
-### Markdown
+Silas是上一部Henry的哥哥，兄弟两过世的父亲把所有东西都留给了Silas，Silas继承了父亲的爵位成了伯爵。但Silas坚持把遗产里的钱给了弟弟，然后自己一个人偷偷承担了父亲的债务和陷入财务危机的房子。Silas就像一个骑士一样守护着这个家族的遗产，和自由自在的弟弟Henry不同，Silas主动担负起了许多责任。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Oz是一个出身贫寒的爱尔兰男孩，他刚被前老板/前男友PUA了之后应聘上了一个贵族庄园的管理者职务。原来，Silas打算把自己的房子向公众开放来补贴债务，计划六个月后就要开放，但由于房子年老失修而且深陷债务，他要雇佣一个管理者。Oz接下了六个月的临时合同。
 
-```markdown
-Syntax highlighted code block
+接下来的故事就是两个人初次见面互相吸引。Oz一开始还没见过Silas，以为伯爵是一个老男人，第一次见面时Silas正在光着膀子除草，Oz以为他是园丁闹出了很多笑话。但当两人知道对方的身份后都被对方吸引，不过双方也坦诚相待，之前交过的男朋友都是人渣，Silas睡了前管理者，结果前管理者把庄园的修缮弄得一塌糊涂，Oz睡了前老板，结果惨被PUA。双方都约好不和对方hook up
 
-# Header 1
-## Header 2
-### Header 3
+两人的性格就非常相似，Silas负担重重但却阳光稳健，Oz身世悲惨但却积极乐观而且非常毒舌。和Oz在一起Silas非常轻松快乐，感受到了他很久没感受到的爱情。Oz不会开车，Silas就教他，结果两人在车上第一次接吻。结果刚亲上Silas就想起了他之前的承诺赶紧撤退了，不过这个故事里两人一直坦诚相待，任何误解都不会持续超过半个章节。
 
-- Bulleted
-- List
+在经历了几天的沉默后，Silas道歉，然后带着Oz进行一次真正的约会。两人还是抵挡不住化学反应，开启了一系列浪漫活动。他们来到了另一栋对公众开放的豪宅里参观，在另一个伯爵的房间里XX。Silas带着Oz来到英格兰边缘的一家小剧院里看莎士比亚的暴风雨。Silas虽然爵位是伯爵，但他的本职工作是兽医，开了家诊所，经常要工作到半夜才回家。Oz就在凌晨两点给他做饭，两人在深夜里边吃饭边聊天。
 
-1. Numbered
-2. List
+然而，Oz知道自己的合约就要到期了，他舍不得离开这个地方和Silas. 因此，Oz带了Silas去见他相依为命的母亲，Oz以前的有钱男友看到他破旧的公寓时都要么表现出鄙夷的姿态，要么虚伪地装作不在乎贫富差距，Oz本来想让Silas表现出任意一种行为，好说服自己和Silas分手，但只有Silas真诚地对待了Oz的公寓和母亲。两人之后敞开心胸，感情进一步加深，
 
-**Bold** and _Italic_ and `Code` text
+在开放庄园的前夕，Silas举办了一场家宴，前一部的Henry和他的男友Ivo来了，不过Silas和Henry冷酷的母亲也到了现场。她不断明示Oz配不上她这个家，本来坚定自信的Oz开始动摇，为自己的出身感到羞耻，不过Silas家族两兄弟的男友力都max，Henry, Ivo不断劝说Oz勇敢和Silas在一起，同时，一场意外让Oz偷听到了Silas对自己的强烈情感，Oz解开了心结，下定决心要和Silas在一起。最终，Oz答应了Silas让他留下来的请求，和Silas一起生活在了庄园里。
 
-[Link](url) and ![Image](src)
-```
+后记：五年后，Oz和Silas已经结婚了，曾为战地记者的Ivo在哥伦比亚找到一个丧亲的小女孩，Oz和Silas领养了这个女孩，他们在庄园里组建了一个小家庭。曾经，这个庄园是Silas和Henry的噩梦，承载了他们童年各种阴暗的回忆，但Oz的出现让这个庄园重新焕发了生机，也逐渐改变了Silas对这份遗产的记忆。Oz作为一个爱尔兰男孩，他在伦敦始终找不到自己的定位，但在这个郊区的庄园里，他也找到了自己的归宿。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Oz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*作者Lily Morton真的更适合写公子哥/霸道总裁，整部书的高潮我居然觉得是Henry和Ivo出现的那一章，Henry为了Oz怼他亲妈的那一段太好笑了。Silas虽然是Henry的哥哥，但他身上的责任感太重反而没有Henry那种纨绔恶少的气质。Silas和Oz的感情真的太过顺利各种发糖，即便有矛盾也因为两人都坦诚相待在几十页里就解决了，少了Risk Taker里Henry和Ivo那种曲折的感觉。*
