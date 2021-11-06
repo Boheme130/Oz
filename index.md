@@ -1,5 +1,6 @@
 ## Oz
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到主页](https://boheme130.github.io/Fiction.git.io/) <br>
+[回到上一页](https://boheme130.github.io/LilyMorton.git.io/)
 
 ![avatar](https://secure.img1-fg.wfcdn.com/im/60227156/compr-r85/2752/27525676/st-patricks-day-fragrance-warmer-artwork-replacement-insert.jpg)
 <br>
